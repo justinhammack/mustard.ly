@@ -31,7 +31,7 @@ wp-content/mysql.sql
 # cleanup after git
 wp-content/plugins/askimet
 wp-content/plugins/hyperdb
-wp-content/mu-plugins
+wp-content/mu-plugins/force-strong-passwords
 
 # wp core (as of 3.4.1)
 /db-config.php
